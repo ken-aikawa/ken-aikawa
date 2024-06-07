@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ken-aikawa
-- 👀 I’m interested in learn javascript and python until now
+- 👀 I’m interested in learn database and IA
 - 🌱 I’m currently learning javascript and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
